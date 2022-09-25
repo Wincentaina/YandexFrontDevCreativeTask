@@ -3,6 +3,7 @@ import FirstPage from "./Pages/FirstPage";
 import SecondPage from "./Pages/SecondPage";
 import anime from "animejs";
 import React from "react";
+import ThirdPage from "./Pages/ThirdPage";
 
 function App() {
 
@@ -34,6 +35,7 @@ function App() {
         <div className={s.main_container}>
             <FirstPage/>
             <SecondPage/>
+            <ThirdPage />
         </div>
     );
 }

@@ -1,0 +1,15 @@
+
+.points {
+
+}
+
+.point {
+    background: #EEEEEE;
+    border-radius: 50%;
+    height: 0.7vw;
+    width: 0.7vw;
+    margin-top: 0.5vw;
+    margin-bottom: 0.5vw;
+    margin-left: 0.3%;
+}
+
