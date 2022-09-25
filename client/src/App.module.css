@@ -1,0 +1,13 @@
+
+.main_container {
+    font-family: 'Montserrat', sans-serif;
+    scroll-snap-type: y mandatory;
+    overflow-y: scroll;
+    height: 100vh;
+    background: #1E1E1E;
+    color: whitesmoke;
+
+}
+
+
+

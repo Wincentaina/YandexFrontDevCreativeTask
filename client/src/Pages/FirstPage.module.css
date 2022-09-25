@@ -1,0 +1,55 @@
+.first_page {
+    text-align: center;
+    scroll-snap-align: center;
+    height: 100vh;
+    width: 100%;
+    position: relative;
+}
+
+.container {
+    margin: 4%;
+}
+
+.title {
+    text-align: left;
+    padding-top: 18%;
+}
+
+.author {
+    font-size: calc(1vw + 10px);
+    margin-left: calc(1vw + 4px);
+}
+
+.minimalism {
+    font-size: 3.2vw;
+    font-weight: 600;
+}
+
+.yellow_text {
+    color: #FFE713;
+    font-weight: 500;
+    font-size: 2.1vw;
+    margin-left: 1.1vw;
+    margin-top: 0.2%;
+}
+
+
+.communicate {
+    position: absolute;
+    padding: 1.5%;
+    display: flex;
+    bottom: 4%;
+    right: 3%;
+}
+
+img {
+    height: calc(3vw + 10px);
+    padding-left: 1vw;
+}
+
+.arrow {
+    position: absolute;
+    bottom: 4%;
+    right: 50%;
+}
+
